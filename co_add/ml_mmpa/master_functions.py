@@ -1,8 +1,8 @@
 import sys
 import os
 
-sys.path.append("/homes/dgurvic/software/miniconda3/envs/jupt_test/lib/python3.7/site-packages/")
-sys.path.append("~/test4/software/miniconda3/envs/jupt_test/lib/python3.7/site-packages/")
+# sys.path.append("/homes/dgurvic/software/miniconda3/envs/jupt_test/lib/python3.7/site-packages/")
+# sys.path.append("~/test4/software/miniconda3/envs/jupt_test/lib/python3.7/site-packages/")
 
 import pandas as pd
 from descriptastorus.descriptors.DescriptorGenerator import MakeGenerator
